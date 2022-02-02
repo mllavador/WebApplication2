@@ -12,6 +12,8 @@ if (!app.Environment.IsDevelopment())
 }
 app.UseStaticFiles();
 
+//otro comentario hotfix
+
 app.UseRouting();
 
 app.UseAuthorization();
