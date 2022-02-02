@@ -12,6 +12,8 @@ namespace WebApplication1
 
         public string PruebaFeature { get; set; }
 
+        public string PruebaFeature3 { get; set; }
+
         public string PruebaFeature2 { get; set; }
     }
 }
