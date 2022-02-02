@@ -12,7 +12,7 @@ namespace WebApplication1
 
         public int PruebaFeature { get; set; }
 
-        public string PruebaFeature3 { get; set; }
+        public int PruebaFeature3 { get; set; }
 
         public string PruebaFeature2 { get; set; }
     }
